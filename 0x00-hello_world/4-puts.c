@@ -1,8 +1,8 @@
 #include <stdio.h>
-/*
- * main - print line of code using puts
+/**
+ * main -Print a line of code using puts
  *
- * return: 0
+ * Return:0
  */
 int main(void)
 {
